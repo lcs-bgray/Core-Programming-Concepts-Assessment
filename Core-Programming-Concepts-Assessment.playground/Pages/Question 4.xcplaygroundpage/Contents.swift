@@ -23,7 +23,14 @@
  
  */
 // Answer question 4 below
-
+var appAmountUsed = 5
+print("Used integer type because the amount of apps used will always be a whole number.")
+var hoursOnPhone = 3.0
+print("Used double type because the amount of hours on phone could be non-whole amouts such as 0.1-0.9")
+var mostPopularApp = "YouTube"
+print("Used string type because app names will be represented in text form.")
+var currentDate = "Thursday, January 18, 2018"
+print("Used string type because the date will be represented in text form.")
 /*:
  ## Now share your understanding
  
