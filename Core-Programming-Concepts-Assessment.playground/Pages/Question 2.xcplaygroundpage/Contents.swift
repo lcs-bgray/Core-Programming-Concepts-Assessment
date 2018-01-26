@@ -24,7 +24,16 @@
  
  */
 // Answer question 2 below
-
+let bookName = "Book name"
+print("Book name does not change (stays constant) so it should be declared as a constant.")
+var copiesSold = 50
+print("Amount of copies sold will change (varies) so it should be declared as a variable.")
+let authorName = "Author name"
+print("The author's name does not change (stays constant) so it should be declared as a constant.")
+let suggestedPrice = 19.99
+print("Suggested selling price does not change (stays constant) so it should be declared as a constant.")
+let yearPublished = 2018
+print("The year the book was published does not change (stays constant) so it should be declared as a constant.")
 /*:
  ## Now share your understanding
  
